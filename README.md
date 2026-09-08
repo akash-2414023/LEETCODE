@@ -126,6 +126,7 @@ Leetcode progress tracker
 | [2395-find-subarrays-with-equal-sum](https://github.com/akash-2414023/LEETCODE/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/akash-2414023/LEETCODE/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2460-apply-operations-to-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/akash-2414023/LEETCODE/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2594-minimum-time-to-repair-cars](https://github.com/akash-2414023/LEETCODE/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/akash-2414023/LEETCODE/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -376,6 +377,7 @@ Leetcode progress tracker
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/akash-2414023/LEETCODE/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akash-2414023/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/akash-2414023/LEETCODE/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/akash-2414023/LEETCODE/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akash-2414023/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akash-2414023/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -458,6 +460,7 @@ Leetcode progress tracker
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/akash-2414023/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akash-2414023/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/akash-2414023/LEETCODE/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/akash-2414023/LEETCODE/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/akash-2414023/LEETCODE/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akash-2414023/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/akash-2414023/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
