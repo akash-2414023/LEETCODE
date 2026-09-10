@@ -506,6 +506,7 @@ Leetcode progress tracker
 | [1267-count-servers-that-communicate](https://github.com/akash-2414023/LEETCODE/tree/master/1267-count-servers-that-communicate) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/akash-2414023/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akash-2414023/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akash-2414023/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/akash-2414023/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
@@ -559,6 +560,7 @@ Leetcode progress tracker
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/akash-2414023/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akash-2414023/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Trie
 |  |
 | ------- |
@@ -584,6 +586,7 @@ Leetcode progress tracker
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/akash-2414023/LEETCODE/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akash-2414023/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bracket Sequences
 |  |
 | ------- |
